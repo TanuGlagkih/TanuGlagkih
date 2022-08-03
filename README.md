@@ -8,7 +8,7 @@
 - 🦾 📈 ⚡
 - 🎯 Стремлюсь делать код чище, а мир лучше!
 <br>
-📌 Стек: 
+📌Стек: 
 <h3>
 <img src="https://user-images.githubusercontent.com/96661925/182633792-4273dcdd-e9dc-4db0-bae9-bb8c706a4c1b.png" height="40"/>
  <img src="https://user-images.githubusercontent.com/96661925/182633857-483a1a7e-ed39-4c5e-964c-d329f16eb55b.png" height="40"/>
