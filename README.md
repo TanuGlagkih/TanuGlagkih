@@ -16,13 +16,13 @@
 <img src="https://user-images.githubusercontent.com/96661925/182633853-04b966cc-86cd-438d-9e91-003ed2e69d31.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/96661925/182633863-80ada1bf-1407-458d-82bc-890ae891ea48.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/96661925/182645014-fc2c203e-38ac-4fa6-a501-575a9c20d574.svg" height="40"/>
-<img src="https://user-images.githubusercontent.com/96661925/182633866-bee572f1-df67-429c-b9f9-297dd4273f55.png" height="50"/>
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="30"/>
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="30"/>
+<img src="https://user-images.githubusercontent.com/96661925/182633866-bee572f1-df67-429c-b9f9-297dd4273f55.png" height="50"/>
 </h3>
 <br>
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TanuGlagkih=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuGlagkih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
