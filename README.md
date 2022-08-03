@@ -1,6 +1,6 @@
-### Привет, Мир! 👋
+<h1> Привет, Мир! 👋 </h1>
 
-Меня зовут Татьяна, я - начинающий frontend разработчик ✨
+<h3>Меня зовут Татьяна, я - начинающий frontend разработчик ✨</h3>
 
 - 🔭 Расширяю свой технологический стек
 - 🌱 Готова учиться всему, чего не знаю
@@ -8,8 +8,8 @@
 - 🦾 📈 ⚡
 - 🎯 Стремлюсь делать код чище, а мир лучше!
 <br>
-📌Стек: 
-<h3>
+<h3>📌Стек: </h3>
+<span>
 <img src="https://user-images.githubusercontent.com/96661925/182633792-4273dcdd-e9dc-4db0-bae9-bb8c706a4c1b.png" height="40"/>
  <img src="https://user-images.githubusercontent.com/96661925/182633857-483a1a7e-ed39-4c5e-964c-d329f16eb55b.png" height="40"/>
 <img src="https://user-images.githubusercontent.com/96661925/182633847-88eb8bfa-7eb3-4bbb-a75b-8e0e8db41898.png" height="40"/>
@@ -19,7 +19,8 @@
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="30"/>
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="30"/>
 <img src="https://user-images.githubusercontent.com/96661925/182633866-bee572f1-df67-429c-b9f9-297dd4273f55.png" height="50"/>
-</h3>
+</span>
+<br>
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanuGlagkih&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
