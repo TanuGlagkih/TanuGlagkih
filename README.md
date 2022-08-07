@@ -3,9 +3,9 @@
 <h3>My name is Tanya, I am a junior frontend developer ✨ </h3>
 
 - 🔭 Currently working on something interesting, improving my skills
-- 🌱 Ready to study anything I don't know
+- 🌱 Ready to study everything I don't know
 - 👯 Eager to work in a good team on a cool project
-- 🎯 Strive to make the code cleaner and the world a better place!
+- 🎯 I strive to make the code cleaner and the world a better place!
 
 <h3>📌 Technology stack: </h3>
 <span>
