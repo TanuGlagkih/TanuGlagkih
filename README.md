@@ -18,6 +18,7 @@
 <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" height="30"/>
 <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" height="30"/>
 <img src="https://user-images.githubusercontent.com/96661925/182633866-bee572f1-df67-429c-b9f9-297dd4273f55.png" height="50"/>
+ <img src="https://user-images.githubusercontent.com/96661925/195058869-810b58ce-d1d5-4a6d-9f3c-8fe326758d54.png" height="50"/>
 </span>
 <br>
 <br>
