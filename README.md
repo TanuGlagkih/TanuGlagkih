@@ -1,13 +1,13 @@
-<h1> Hello, World! 👋 </h1>
+<h1> Hello, World! </h1>
 
 <h3>My name is Tanya, I am a junior frontend developer ✨ </h3>
 
-- 🔭 Currently working on something interesting, improving my skills
-- 🌱 Ready to study everything I don't know
-- 👯 Eager to work in a good team on a cool project
-- 🎯 I strive to make the code cleaner and the world a better place!
+- Currently working on something interesting, improving my skills
+- Ready to study everything I don't know
+- Eager to work in a good team on a cool project
+- I strive to make the code cleaner and the world a better place!
 
-<h3>📌 Technology stack: </h3>
+<h3> Technology stack: </h3>
 <span>
 <img src="https://user-images.githubusercontent.com/96661925/182633792-4273dcdd-e9dc-4db0-bae9-bb8c706a4c1b.png" height="40"/>
  <img src="https://user-images.githubusercontent.com/96661925/182633857-483a1a7e-ed39-4c5e-964c-d329f16eb55b.png" height="40"/>
