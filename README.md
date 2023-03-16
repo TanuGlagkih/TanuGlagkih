@@ -4,7 +4,7 @@
 
 - Currently working on something interesting, improving my skills
 - Ready to study everything I don't know
-- Eager to work in a good team on a cool project
+- Working in a good team on a cool project
 - I strive to make the code cleaner and the world a better place!
 
 <h3> Technology stack: </h3>
