@@ -3,7 +3,6 @@
 <h3>My name is Tanya, I am a frontend developer </h3>
 
 - Currently working on something interesting, permanently improving my skills
-- Ready to study everything I don't know
 - Working in a good team on a cool project
 - I strive to make the code cleaner and the world a better place!
 
